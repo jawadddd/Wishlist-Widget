@@ -7,8 +7,8 @@
 * Move any item to the top of the list  
   
 ### To create this react app,you need to follow these steps:  
-* npx create-react-app wish-list-widget  
-* cd wish-list-widget  
+* npx create-react-app WishList-Widget  
+* cd WishList-Widget  
   
 ### To run this react app type following command on terminal(or terminal of vscode):
 * npm start
